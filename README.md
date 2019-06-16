@@ -4,7 +4,6 @@ Sistem üzerinden uniGUI kullanarak ödemenin nasıl yapılacağı anlatılmaya 
 {<br>
   The author of this library is Halil Han Badem.<br>
   Please do not change this information without permission.<br>
-  This file is free of charge to the developers of Medula.<br>
 
   Build Delphi IDE: Delphi 10.3<br>
   Developer by: Halil Han Badem<br>
