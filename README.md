@@ -27,6 +27,6 @@ Uyarı!!!<br>
 Sahiplenmek, ücretli dağıtmak kesinlikle yasaktır. <br>
 Bu kütüphaneler ücretsiz olarak dağıtılmaktadır. Bana destek olmak istiyorsanız lütfen site üzerinden bağış yapın! Bağış yaparsanız mutlu olurum.<br>
 <br>
-Donate web site: https://halilhanbadem.com/donate.html<br>
-Bağış web site: https://halilhanbadem.com/donate.html  <br>
+Donate web site: https://halilhanbadem.com<br>
+Bağış web site: https://halilhanbadem.com  <br>
 }
